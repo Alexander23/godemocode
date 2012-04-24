@@ -1,4 +1,5 @@
 godemocode
 ==========
 
-small go code parts
+small go code snippets
+
